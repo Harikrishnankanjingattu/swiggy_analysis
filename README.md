@@ -20,3 +20,6 @@ The dataset includes the following information:
 - Restaurant Link
 
 Through this analysis, SQL techniques such as filtering, aggregation, grouping, ranking, subqueries, and window functions are applied to transform raw restaurant data into actionable business insights. The project serves as a practical demonstration of how SQL can be used for data exploration, reporting, and decision-making using real-world food delivery platform data.
+<p align="center">
+  <img src="./dataset.png" alt="Swiggy Restaurant Data Analysis" width="100%">
+</p>
