@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Swiggy Restaurant Data Analysis" width="100%">
+  <img src="./download.png" alt="Swiggy Restaurant Data Analysis" width="100%">
 </p>
 
 # Swiggy Restaurant Data Analysis Using SQL
