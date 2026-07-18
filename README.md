@@ -23,3 +23,4 @@ Through this analysis, SQL techniques such as filtering, aggregation, grouping, 
 <p align="center">
   <img src="./dataset.png" alt="Swiggy Restaurant Data Analysis" width="100%">
 </p>
+Contributer :-Harikrishnan K
